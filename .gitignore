@@ -3,6 +3,8 @@
 
 # dependencies
 /client/node_modules/
+/client/package-lock.json
+/client/public/vite.svg
 /.pnp
 .pnp.js
 
